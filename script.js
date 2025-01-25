@@ -7,7 +7,20 @@
 // for(var i=0;i<=10;i++){
 //     console.log(i,"bini");
 // }
-var i=0;
-while(i<10){
-    console.log("heheh");
+// 
+
+// let i=0;
+// do{
+//     console.log("jfxdk");
+// }
+// while(i<=10);
+// 
+
+var a={
+    name:"lol",
+    age:"34",
+    Roll:"78"
 }
+console.log(a.name);
+console.log(a.age);
+console.log(a.Roll);
